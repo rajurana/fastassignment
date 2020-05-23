@@ -1,0 +1,6 @@
+duedateno,mod_fastassignment
+mysubmission,mod_fastassignment
+nolatesubmissions,mod_fastassignment
+nosubmissionsacceptedafter,mod_fastassignment
+notsubmittedyet,mod_fastassignment
+submissionsnotgraded,mod_fastassignment

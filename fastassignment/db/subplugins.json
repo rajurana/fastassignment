@@ -1,0 +1,6 @@
+{
+    "plugintypes": {
+        "fastassignsubmission": "mod\/fastassignment\/submission",
+        "fastassignfeedback": "mod\/fastassignment\/feedback"
+    }
+}

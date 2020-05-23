@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_fastassignment-history",
+    "builds": {
+        "moodle-mod_fastassignment-history": {
+            "jsfiles": [
+                "history.js"
+            ]
+        }
+    }
+}
